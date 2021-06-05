@@ -7,54 +7,24 @@
 
 # Daftar Isi
 ## Daftar Isi 
-* [Soal 1](#soal-1) 
-  * [Penyelesaian.](#penyelesaian-soal-1) 
+* [Soal 1](SinSeiFS_IT11.c) 
+  * [Penyelesaian-1.](#penyelesaian-1) 
+  * [Penyelesaian-2.](#penyelesaian-soal-2)
+  * [Penyelesaian-3.](#penyelesaian-soal-3)
+  * [Penyelesaian-4.](#penyelesaian-soal-4)
   * [Output.](#output-soal-1) 
   * [Kendala.](#Kendala-Soal-1) 
-* [Soal 2](#soal-2) 
-   * [Penyelesaian.](#penyelesaian-soal-2) 
-  * [Output.](#output-soal-2) 
-  * [Kendala.](#Kendala-Soal-2) 
-* [Soal 3](#soal-3) 
-  * [Penyelesaian.](#penyelesaian-soal-3) 
-  * [Output.](#output-soal-3) 
-  * [Kendala.](#Kendala-Soal-3)
-* [Soal 4](#soal-4) 
-  * [Penyelesaian.](#penyelesaian-soal-4) 
-  * [Output.](#output-soal-4) 
-  * [Kendala.](#Kendala-Soal-4) 
- 
-
 
         
 # Soal 1
 
 ## Penyelesaian-soal-1
+## Penyelesaian-soal-2
+## Penyelesaian-soal-3
+## Penyelesaian-soal-4
 
 ## Output-soa-1
 
 ## Kendala-soal-1
 
-# Soal 2
 
-## Penyelesaian-soal-2
-
-## Output-soal-2
-
-## Kendala-soal-2
-
-# Soal 3
-
-## Penyelesaian-soal-3
-
-## Output-soal-3
-
-## Kendala-soal-3
-
-# Soal 4
-
-## Penyelesaian-soal-4
-
-## Output-soal-4
-
-## Kendala-soal-4
