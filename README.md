@@ -7,7 +7,7 @@
 
 # Daftar Isi
 ## Daftar Isi 
-* [SinSeiFS_IT11](SinSeiFS_IT11) 
+* [SinSeiFS_IT11](#SinSeiFS_IT11) 
   * [Penyelesaian-1.](#penyelesaian-1) 
   * [Penyelesaian-2.](#penyelesaian-soal-2)
   * [Penyelesaian-3.](#penyelesaian-soal-3)
