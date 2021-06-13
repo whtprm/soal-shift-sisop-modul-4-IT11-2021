@@ -290,5 +290,5 @@ Tidak berhasil terselesaikan
 <img src="https://cdn.discordapp.com/attachments/594197008936337458/853657775980937236/unknown.png">
 <img src="https://cdn.discordapp.com/attachments/594197008936337458/853657879595712522/unknown.png">
 ## Kendala-soal-1-dan-4
-
+kurangnya pemahaman mengenai FUSE
 
